@@ -13,16 +13,16 @@ namespace food_core
     }
     public enum Activitylevel
     {
-low,
-moderate,
-high
+        Low,
+        Moderate,
+        High
 
     }
     public enum Goal
     {
-        lose_weight,
-        maintain_weight,
-        gain_weight
+        Lose_weight,
+        Maintain_weight,
+        Gain_weight
 
     }
 }

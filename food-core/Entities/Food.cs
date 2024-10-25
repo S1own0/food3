@@ -10,12 +10,13 @@ namespace food_core.Entities
     {
         public Id Id { get; set; }
         public string Name { get; set; }
-        public int calorieAmount { get; set; }
-        public double proteinAmount { get; set; }
-        public double carbAmount { get; set; }
-        public double fatAmount { get; set; }
+        public double CalorieAmount { get; set; }
+        public double ProteinAmount { get; set; }
+        public double CarbAmount { get; set; }
+        public double FatAmount { get; set; }
 
         
-
+        public virtual ICollection<UserFoodLog> UserFoodLog { get; set; }
+        public virtual ICollection<UserFoodRecommendation> UserFoodRecommendation { get; set; }
     }
 }

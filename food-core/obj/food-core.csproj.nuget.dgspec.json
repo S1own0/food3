@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kir00\\source\\repos\\food\\food-core\\food-core.csproj": {}
+    "C:\\Users\\Настя\\Desktop\\Project\\food\\food-core\\food-core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kir00\\source\\repos\\food\\food-core\\food-core.csproj": {
+    "C:\\Users\\Настя\\Desktop\\Project\\food\\food-core\\food-core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\food-core.csproj",
+        "projectUniqueName": "C:\\Users\\Настя\\Desktop\\Project\\food\\food-core\\food-core.csproj",
         "projectName": "food-core",
-        "projectPath": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\food-core.csproj",
-        "packagesPath": "C:\\Users\\kir00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\obj\\",
+        "projectPath": "C:\\Users\\Настя\\Desktop\\Project\\food\\food-core\\food-core.csproj",
+        "packagesPath": "C:\\Users\\Настя\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Настя\\Desktop\\Project\\food\\food-core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kir00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Настя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

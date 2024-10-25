@@ -1,26 +1,50 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "food-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/food-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/food-core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "food-core/1.0.0": {
+      "type": "project",
+      "path": "../food-core/food-core.csproj",
+      "msbuildProject": "../food-core/food-core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "food-core >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\kir00\\.nuget\\packages\\": {}
+    "C:\\Users\\Настя\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kir00\\source\\repos\\food\\food-application\\food-application.csproj",
+      "projectUniqueName": "C:\\Users\\Настя\\Desktop\\Project\\food\\food-application\\food-application.csproj",
       "projectName": "food-application",
-      "projectPath": "C:\\Users\\kir00\\source\\repos\\food\\food-application\\food-application.csproj",
-      "packagesPath": "C:\\Users\\kir00\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kir00\\source\\repos\\food\\food-application\\obj\\",
+      "projectPath": "C:\\Users\\Настя\\Desktop\\Project\\food\\food-application\\food-application.csproj",
+      "packagesPath": "C:\\Users\\Настя\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Настя\\Desktop\\Project\\food\\food-application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kir00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Настя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,12 +52,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Настя\\Desktop\\Project\\food\\food-core\\food-core.csproj": {
+              "projectPath": "C:\\Users\\Настя\\Desktop\\Project\\food\\food-core\\food-core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -66,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

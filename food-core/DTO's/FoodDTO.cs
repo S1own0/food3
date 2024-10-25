@@ -11,20 +11,20 @@ namespace food_core.DTO_s
     {
         public Id Id { get; set; }
         public string Name { get; set; }
-        public int calorieAmount { get; set; }
-        public double proteinAmount { get; set; }
-        public double carbAmount { get; set; }
-        public double fatAmount { get; set; }
+        public double CalorieAmount { get; set; }
+        public double ProteinAmount { get; set; }
+        public double CarbAmount { get; set; }
+        public double FatAmount { get; set; }
 
         public static implicit operator FoodDTO(Food other) =>
             new()
             {
                 Id = other.Id,
                 Name = other.Name,
-                calorieAmount = other.calorieAmount,
-                proteinAmount = other.proteinAmount,
-                carbAmount = other.carbAmount,
-                fatAmount = other.fatAmount
+                CalorieAmount = other.CalorieAmount,
+                ProteinAmount = other.ProteinAmount,
+                CarbAmount = other.CarbAmount,
+               FatAmount = other.FatAmount
 
 
             };

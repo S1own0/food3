@@ -1,74 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kir00\\source\\repos\\food\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\dto\u0027s\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\dto\u0027s\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-application\\foods\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|solutionrelative:food-application\\foods\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\entities\\userfoodrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\userfoodrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-application\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|solutionrelative:food-application\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\exceptions\\foodnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\exceptions\\foodnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\exceptions\\usernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\exceptions\\usernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\entities\\usergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\usergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\entities\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\entities\\userfoodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\userfoodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\entities\\calorerequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\entities\\calorerequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\calorerequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\entities\\userfoodrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\userfoodrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\entities\\userfoodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\userfoodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\entities\\usergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\usergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\entities\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\AppData\\Local\\Temp\\b7ead027-cb3c-4e8b-942c-62f4e0504aa4_healthyEatingApp-main.zip.aa4\\healthyEatingApp-main\\healthyEatingApp\\Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-application\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|solutionrelative:food-application\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\kir00\\source\\repos\\food\\food-core\\food-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-application\\food-application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|solutionrelative:food-application\\food-application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\exceptions\\foodnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\exceptions\\foodnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\exceptions\\usernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\exceptions\\usernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-core\\food-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{91164748-EA85-4DCB-A694-5248FCFADB7C}|food-core\\food-core.csproj|solutionrelative:food-core\\food-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2041DCCD-6A47-4303-B393-10AE7AD1898F}|food-infrastructure\\food-infrastructure.csproj|c:\\users\\kir00\\source\\repos\\food\\food-infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2041DCCD-6A47-4303-B393-10AE7AD1898F}|food-infrastructure\\food-infrastructure.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2041DCCD-6A47-4303-B393-10AE7AD1898F}|food-infrastructure\\food-infrastructure.csproj|solutionrelative:food-infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7BA24F5-04D4-4353-A16E-D5CF1D13A275}|food-applicationtests\\food-applicationtests.csproj|c:\\users\\kir00\\source\\repos\\food\\food-applicationtests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7BA24F5-04D4-4353-A16E-D5CF1D13A275}|food-applicationtests\\food-applicationtests.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\desktop\\project\\food\\food-applicationtests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7BA24F5-04D4-4353-A16E-D5CF1D13A275}|food-applicationtests\\food-applicationtests.csproj|solutionrelative:food-applicationtests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|c:\\users\\kir00\\source\\repos\\food\\food-application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0939BC-5392-46BC-9B68-8C27434B5FB3}|food-application\\food-application.csproj|solutionrelative:food-application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,173 +89,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FoodNotFound.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Exceptions\\FoodNotFound.cs",
-              "RelativeDocumentMoniker": "food-core\\Exceptions\\FoodNotFound.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Exceptions\\FoodNotFound.cs",
-              "RelativeToolTip": "food-core\\Exceptions\\FoodNotFound.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "CaloreRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\CaloreRequirement.cs",
+              "RelativeDocumentMoniker": "food-core\\Entities\\CaloreRequirement.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\CaloreRequirement.cs",
+              "RelativeToolTip": "food-core\\Entities\\CaloreRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T18:46:49.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserNotFound.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Exceptions\\UserNotFound.cs",
-              "RelativeDocumentMoniker": "food-core\\Exceptions\\UserNotFound.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Exceptions\\UserNotFound.cs",
-              "RelativeToolTip": "food-core\\Exceptions\\UserNotFound.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T18:43:57.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FoodDTO.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\DTO\u0027s\\FoodDTO.cs",
-              "RelativeDocumentMoniker": "food-core\\DTO\u0027s\\FoodDTO.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\DTO\u0027s\\FoodDTO.cs",
-              "RelativeToolTip": "food-core\\DTO\u0027s\\FoodDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T18:16:46.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\DTO\u0027s\\UserDTO.cs",
-              "RelativeDocumentMoniker": "food-core\\DTO\u0027s\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\DTO\u0027s\\UserDTO.cs",
-              "RelativeToolTip": "food-core\\DTO\u0027s\\UserDTO.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwvxMAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T18:11:28.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserGoals.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserGoals.cs",
-              "RelativeDocumentMoniker": "food-core\\Entities\\UserGoals.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserGoals.cs",
-              "RelativeToolTip": "food-core\\Entities\\UserGoals.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:21:19.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Enum.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Enum.cs",
-              "RelativeDocumentMoniker": "food-core\\Enum.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Enum.cs",
-              "RelativeToolTip": "food-core\\Enum.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:31:39.299Z",
+              "WhenOpened": "2024-10-25T10:12:17.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "food-core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\User.cs",
-              "RelativeToolTip": "food-core\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserActivity.cs",
+              "RelativeDocumentMoniker": "food-core\\Entities\\UserActivity.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserActivity.cs",
+              "RelativeToolTip": "food-core\\Entities\\UserActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:20:53.839Z",
+              "WhenOpened": "2024-10-25T10:10:24.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserFoodLog.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserFoodLog.cs",
+              "RelativeDocumentMoniker": "food-core\\Entities\\UserFoodLog.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserFoodLog.cs",
+              "RelativeToolTip": "food-core\\Entities\\UserFoodLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:10:23.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserFoodRecommendation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserFoodRecommendation.cs",
+              "RelativeDocumentMoniker": "food-core\\Entities\\UserFoodRecommendation.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserFoodRecommendation.cs",
+              "RelativeToolTip": "food-core\\Entities\\UserFoodRecommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:10:17.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\Food.cs",
-              "RelativeDocumentMoniker": "food-core\\Entities\\Food.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\Food.cs",
-              "RelativeToolTip": "food-core\\Entities\\Food.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Title": "UserGoals.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserGoals.cs",
+              "RelativeDocumentMoniker": "food-core\\Entities\\UserGoals.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\UserGoals.cs",
+              "RelativeToolTip": "food-core\\Entities\\UserGoals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:22:31.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserActivity.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserActivity.cs",
-              "RelativeDocumentMoniker": "food-core\\Entities\\UserActivity.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserActivity.cs",
-              "RelativeToolTip": "food-core\\Entities\\UserActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:21:09.369Z",
+              "WhenOpened": "2024-10-25T10:06:41.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserFoodRecommendation.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserFoodRecommendation.cs",
-              "RelativeDocumentMoniker": "food-core\\Entities\\UserFoodRecommendation.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserFoodRecommendation.cs",
-              "RelativeToolTip": "food-core\\Entities\\UserFoodRecommendation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "food-application\\Users\\UserService.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\Users\\UserService.cs",
+              "RelativeToolTip": "food-application\\Users\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:22:47.921Z",
+              "WhenOpened": "2024-10-25T07:48:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\Foods\\FoodService.cs",
+              "RelativeDocumentMoniker": "food-application\\Foods\\FoodService.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\Foods\\FoodService.cs",
+              "RelativeToolTip": "food-application\\Foods\\FoodService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:48:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "food-core\\Entities\\Food.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\Food.cs",
+              "RelativeToolTip": "food-core\\Entities\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:11:38.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "food-core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Entities\\User.cs",
+              "RelativeToolTip": "food-core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:56:28.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UserFoodLog.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserFoodLog.cs",
-              "RelativeDocumentMoniker": "food-core\\Entities\\UserFoodLog.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\UserFoodLog.cs",
-              "RelativeToolTip": "food-core\\Entities\\UserFoodLog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\AppData\\Local\\Temp\\b7ead027-cb3c-4e8b-942c-62f4e0504aa4_healthyEatingApp-main.zip.aa4\\healthyEatingApp-main\\healthyEatingApp\\Calc.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\b7ead027-cb3c-4e8b-942c-62f4e0504aa4_healthyEatingApp-main.zip.aa4\\healthyEatingApp-main\\healthyEatingApp\\Calc.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\AppData\\Local\\Temp\\b7ead027-cb3c-4e8b-942c-62f4e0504aa4_healthyEatingApp-main.zip.aa4\\healthyEatingApp-main\\healthyEatingApp\\Calc.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\b7ead027-cb3c-4e8b-942c-62f4e0504aa4_healthyEatingApp-main.zip.aa4\\healthyEatingApp-main\\healthyEatingApp\\Calc.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:22:07.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T09:16:52.012Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CaloreRequirement.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\CaloreRequirement.cs",
-              "RelativeDocumentMoniker": "food-core\\Entities\\CaloreRequirement.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Entities\\CaloreRequirement.cs",
-              "RelativeToolTip": "food-core\\Entities\\CaloreRequirement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\Interfaces.cs",
+              "RelativeDocumentMoniker": "food-application\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\Interfaces.cs",
+              "RelativeToolTip": "food-application\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:22:23.435Z",
+              "WhenOpened": "2024-10-13T17:04:17.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Interfaces.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Interfaces.cs",
               "RelativeDocumentMoniker": "food-core\\Interfaces.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Interfaces.cs",
               "RelativeToolTip": "food-core\\Interfaces.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T17:03:30.666Z",
               "EditorCaption": ""
@@ -252,54 +250,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "food-core",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\food-core.csproj",
-              "RelativeDocumentMoniker": "food-core\\food-core.csproj",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-core\\food-core.csproj",
-              "RelativeToolTip": "food-core\\food-core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T17:09:30.26Z",
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\DTO\u0027s\\UserDTO.cs",
+              "RelativeDocumentMoniker": "food-core\\DTO\u0027s\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\DTO\u0027s\\UserDTO.cs",
+              "RelativeToolTip": "food-core\\DTO\u0027s\\UserDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:11:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Enum.cs",
+              "RelativeDocumentMoniker": "food-core\\Enum.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Enum.cs",
+              "RelativeToolTip": "food-core\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:31:39.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "food-infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-infrastructure\\Class1.cs",
-              "RelativeToolTip": "food-infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:05:10.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-applicationtests\\Class1.cs",
-              "RelativeDocumentMoniker": "food-applicationtests\\Class1.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-applicationtests\\Class1.cs",
-              "RelativeToolTip": "food-applicationtests\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:04:49.382Z",
+              "Title": "food-application",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\food-application.csproj",
+              "RelativeDocumentMoniker": "food-application\\food-application.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-application\\food-application.csproj",
+              "RelativeToolTip": "food-application\\food-application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T07:46:40.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "UserNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Exceptions\\UserNotFound.cs",
+              "RelativeDocumentMoniker": "food-core\\Exceptions\\UserNotFound.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Exceptions\\UserNotFound.cs",
+              "RelativeToolTip": "food-core\\Exceptions\\UserNotFound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:43:57.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Exceptions\\FoodNotFound.cs",
+              "RelativeDocumentMoniker": "food-core\\Exceptions\\FoodNotFound.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\Exceptions\\FoodNotFound.cs",
+              "RelativeToolTip": "food-core\\Exceptions\\FoodNotFound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:46:49.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "food-core.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\food-core.csproj",
+              "RelativeDocumentMoniker": "food-core\\food-core.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-core\\food-core.csproj",
+              "RelativeToolTip": "food-core\\food-core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T17:09:30.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\kir00\\source\\repos\\food\\food-application\\Class1.cs",
-              "RelativeDocumentMoniker": "food-application\\Class1.cs",
-              "ToolTip": "C:\\Users\\kir00\\source\\repos\\food\\food-application\\Class1.cs",
-              "RelativeToolTip": "food-application\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "food-infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-infrastructure\\Class1.cs",
+              "RelativeToolTip": "food-infrastructure\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:04:17.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T17:05:10.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-applicationtests\\Class1.cs",
+              "RelativeDocumentMoniker": "food-applicationtests\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Desktop\\Project\\food\\food-applicationtests\\Class1.cs",
+              "RelativeToolTip": "food-applicationtests\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:04:49.382Z"
             }
           ]
         }

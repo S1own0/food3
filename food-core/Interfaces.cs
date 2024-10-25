@@ -22,6 +22,8 @@ public interface IRepository<TEntity> where TEntity : class, IEntity
     Task<IEnumerable<TEntity>> Get(CancellationToken cancellationToken);
     Task Get(Id id, CancellationToken cancellationToken) =>
         Get(id, cancellationToken);
+    Task Calculate (TEntity entity, CancellationToken cancellationToken)=>
+        Calculate(entity, cancellationToken);
     Task<IEnumerable<TEntity>> Get(Func<TEntity, bool> predicate, CancellationToken cancellationToken);
     Task<IEnumerable<TEntity>> GetWithoutTracking(CancellationToken cancellationToken);
     Task<IEnumerable<TEntity>> GetWithoutTracking(Func<TEntity, bool> predicate, CancellationToken cancellationToken);
